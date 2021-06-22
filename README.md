@@ -1,16 +1,15 @@
 ### Hi there 👋
 
 <!--
-**amisha0-0/amisha0-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**amisha0-0/amisha0-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# amisha0_0
+---
+- 😁🙋‍ Hi, this is Amisha. 
+- 🏫📚 Currently a sophomore in Electronics and Communication Department at BIT Bangalore. 
+- 👩‍💻💻Interested in Front-end development. 
+- 🤝🙌Here to contribute and learn forking and committing. 
+---
+```
+Connect with me there:
+[Linkedin](https://www.linkedin.com/in/amisha-08a7731ab/)
