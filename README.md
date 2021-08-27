@@ -5,7 +5,7 @@
 ---
 - 😁🙋‍ Hi, this is Amisha.   		
 - 🏫📚 Currently a sophomore in Electronics and Communication Department at BIT Bangalore. 
-- 👩‍💻💻Interested in Web-development( front-end particularly), data-science and competitive programming. 
+- 👩‍💻💻Interested in Front-End Development, Data-Science and Competitive Programming. 
 - 🤝🙌Here to contribute and learn. 
 ---
 ```
