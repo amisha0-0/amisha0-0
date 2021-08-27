@@ -15,10 +15,7 @@ Connect with me there:
 ```
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amisha-08a7731ab/)](https://www.linkedin.com/in/amisha-08a7731ab/)  
 [![Gmail badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sinhaamisha194@gmail.com)](mailto:sinhaamisha194@gmail.com) 
-
 ---
-
-
 ![Amisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=amisha0-0&show_icons=true&theme=cobalt)
 
 
