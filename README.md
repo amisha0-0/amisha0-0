@@ -1,13 +1,14 @@
 <!--
 **amisha0-0/amisha0-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-## Little Introduction
+## Little Introduction <img align="left" src="https://media3.giphy.com/media/wkW0maGDN1eSc/giphy.gif?cid=ecf05e47rshnimakroyp8fopjtitzzctmdoihlj5rkeolvkv&rid=giphy.gif&ct=g" width="45px">
 ---
 - 😁🙋‍ Hi, this is Amisha.   		
 - 🏫📚 Currently a sophomore in Electronics and Communication Department at BIT Bangalore. 
 - 👩‍💻💻Interested in Front-End Development, Data-Science and Competitive Programming. 
 - 🤝🙌Here to contribute and learn. 
 ---
+
 ```
 Connect with me there:
 ```
