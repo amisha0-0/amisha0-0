@@ -11,16 +11,15 @@
 - 🤝🙌Here to contribute and learn. 
 
 - ![](https://visitor-badge.glitch.me/badge?page_id=amisha0-0.amisha0-0)
+
 ---
 
 
-Connect with me there: 
+**Connect with me there:**  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amisha-08a7731ab/)](https://www.linkedin.com/in/amisha-08a7731ab/)  [![Gmail badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sinhaamisha194@gmail.com)](mailto:sinhaamisha194@gmail.com) 
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amisha-08a7731ab/)](https://www.linkedin.com/in/amisha-08a7731ab/)  
-[![Gmail badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sinhaamisha194@gmail.com)](mailto:sinhaamisha194@gmail.com) 
 ---
-***Languages and Tools:***
----
+
+*Languages and Tools:*
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/python/python.png"></code>
@@ -30,7 +29,7 @@ Connect with me there:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
+---
 <p><img align="left" alt="GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47obdd8d7qe7q6potzjdpxt32tpplnfy3kddnspz72&rid=giphy.gif&ct=g" width="300" height="300" /></p>
 
 
