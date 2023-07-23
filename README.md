@@ -3,7 +3,6 @@
 
 ## Little Introduction <img align="left" src="https://media3.giphy.com/media/wkW0maGDN1eSc/giphy.gif?cid=ecf05e47rshnimakroyp8fopjtitzzctmdoihlj5rkeolvkv&rid=giphy.gif&ct=g" width="45px">
 
----
 
 - 😁🙋‍ Hi, this is Amisha.   		
 - 🏫📚 Graduated in Electronics and Communication Department from BIT Bangalore. 
