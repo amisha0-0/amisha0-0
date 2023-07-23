@@ -6,10 +6,9 @@
 ---
 
 - 😁🙋‍ Hi, this is Amisha.   		
-- 🏫📚 Currently a pre-final year undergrad in Electronics and Communication Department at BIT Bangalore. 
-- 👩‍💻💻Interested in Front-End Development, Data-Science and Competitive Programming. 
+- 🏫📚 Graduated in Electronics and Communication Department from BIT Bangalore. 
+- 👩‍💻💻Interested in Full-Stack Web Development, Programming and Problem Solving. 
 - 🤝🙌Here to contribute and learn. 
-
 - ![](https://visitor-badge.glitch.me/badge?page_id=amisha0-0.amisha0-0)
 
 ---
