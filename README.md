@@ -8,8 +8,9 @@
 - 😁🙋‍ Hi, this is Amisha.   		
 - 🏫📚 Graduated in Electronics and Communication Department from BIT Bangalore. 
 - 👩‍💻💻Interested in Full-Stack Web Development, Programming and Problem Solving. 
-- 🤝🙌Here to contribute and learn. 
--![](https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=github-visitors-badge&countColor=%237B1E7A)
+- 🤝🙌Here to contribute and learn.
+  
+- ![](https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=github-visitors-badge&countColor=%237B1E7A)
 
 ---
 
